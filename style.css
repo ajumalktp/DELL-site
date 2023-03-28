@@ -1,0 +1,823 @@
+/* body  */
+body{
+    margin: 0;
+    
+}
+.container{
+    background-color: rgb(249, 247, 247);
+    
+}
+/* body  */
+
+/* navbar  */
+.contr-main-navbar{
+    
+    width: 100%;
+    height: 150px;
+}
+/* main navbar 1  */
+.main-navbar1{
+    background-color: white;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    
+}
+.logo-name{
+    width: 365px;
+    height: 75px;
+}
+.logo-img{
+    width: 300px;
+    height: 250px;
+    margin-top: -85px;
+}
+.search-bar{
+    width: 625px;
+    height: 75px;
+   
+}
+#search-input{
+    margin-top: 20px;
+    width: 37pc;
+    height: 40px;
+}
+.signin-img{
+    width: 30px;
+    height: 75px;
+    margin-left: 70px;
+}
+.signin-bar{
+    width: 80px;
+    height: 75px;
+    text-align: center;
+    
+}
+.text-navbar1{
+    margin-top: 30px;
+    font-family: Roboto,Arial,Helvetica,sans-serif
+}
+.contact-img{
+    width: 30px;
+    height: 75px;
+    margin-left: 25px;
+}
+.contact-bar{
+    width: 100px;
+    height: 75px;
+    text-align: center;
+    margin-left: 10px;
+}
+.lang-img{
+    width: 30px;
+    height: 75px;
+    margin-left: 25px;
+}
+.lang-bar{
+    width: 60px;
+    height: 75px;
+    text-align: center;
+    
+}
+.cart-img{
+    width: 30px;
+    height: 75px;
+    margin-left: 25px;
+}
+.cart-bar{
+    width: 60px;
+    height: 75px;
+    text-align: center;
+}
+/* main navbar 1  */
+
+/* main navbar 2 */
+.main-navbar2{
+    width: 100%;
+    height: 50%;
+    background-color: white;
+    display: flex;
+}
+.content-navbar2{
+    width: 130px;
+    height: 75px;
+    
+}
+.text-navbar2{
+    text-align: center;
+    font-family: Roboto,Arial,Helvetica,sans-serif;
+    margin-top: 30px;
+
+    
+}
+/* main navbar 2 */
+
+/* sub navbar  */
+
+.contr-sub-navbar{
+    width: 100%;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+   position: sticky;
+    top:0; 
+    background-color:rgb(249, 247, 247);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 9px 0 rgba(0, 0, 0, 0.19);
+}
+.sub-navbars{
+    width: 200px;
+    height:160px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.sub-nav-img{
+    width: 40px;
+    height: 40px;
+}
+.sub-nav-text{
+    font-size: 22px;
+    letter-spacing: .005em;
+    line-height: 1.5rem;
+    margin: 0;
+    font-family: Roboto,Arial,Helvetica,sans-serif;
+                      font-weight: 100;
+}
+/* sub navbar  */
+
+/* navbar  */
+
+/* main body  */
+.main-body1{
+    background-color:white;
+    width: 100%;
+    height: 440px;
+    display: flex;
+    background-image: url(https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/heroes/festive-cons-dell-xps-9320t-uhp-2401-04-in-homepage-hero-lf-2400x696-v1-lr1.png?fmt=png&op_usm=1.75,0.3,2,0&resMode=sharp2&size=1536,446&hei=446&wid=1536);
+}
+.body1-part1{
+width: 50%;
+height:440px ;
+margin-left: 40px;
+margin-top: 100px;
+}
+.main-body1-buttons{
+    width: 400px;
+    height: 100px;
+    margin-top: 20px;
+    display: flex;
+}
+.body1-button{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.body1-button1{
+    width: 165px;
+    height: 60px;
+    font-size: 20px;
+    color: white;
+    background: #0672cb;
+    border: none;
+    border-radius: 3px;
+}
+
+.body1-button2{
+    width: 165px;
+    height: 60px;
+    font-size: 20px;
+    color: #0672cb;
+    background: white;
+    border: 2px #0672cb solid;
+    border-radius: 3px;
+}
+
+.main-body2{
+    width: 100%;
+    height: 600px;
+}
+.body2-header{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.body2-header-text{
+    width: 30%;
+    height: 50%;
+    text-align: center;
+}
+.body2-content{
+    width: 100%;
+    height: 55%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.body2-content-hover{
+    width: 31%;
+    height: 100%;
+    background-color: black;
+}
+.body2-content-flex1{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/uber/0316-security-mdr-703x423.png?fmt=jpg&wid=582&hei=350&fit=constrain);
+}
+.body2-content-flex2{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/uber/0302-innovationindex-703x423.png?fmt=jpg&wid=582&hei=350&fit=constrain);
+}
+.body2-content-flex3{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/uber/0316-apex-sustainability-703x423.png?fmt=jpg&wid=582&hei=350&fit=constrain);
+}
+.body2-content-flex1:hover,.body2-content-flex2:hover,.body2-content-flex3:hover{
+    opacity: 0.5;
+    color: black;
+    
+    
+}
+.body2-footer{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center; 
+     justify-content: space-evenly;
+}
+.body2-footer-flex{
+    width: 31%;
+    height: 100%;
+    background-color: black;
+}
+.body2-footer-text{
+    width: 100%;
+    height: 60%;
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.body2-footer-arrow{
+    width: 10%;
+    height: 100%;
+}
+.main-body3-1{
+   
+    width: 100%;
+    height:600px;
+    background-color: white;
+    display: flex;
+    
+}
+.body3-1-part1{
+    width:50% ;
+    height: 600px;
+    background-color:white;
+    
+}
+.body3-1-part2{
+    width:50% ;
+    height: 600px;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.body3-1-part2-text{
+    width: 70%;
+    height: 55%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.main-body4-2{
+    background-color:white;
+    width: 100%;
+    height:600px;
+    display: flex;
+}
+.body4-2-part1{
+    width: 50%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.body4-2-part2{
+    width: 50%;
+    height: 600px;
+}
+.main-body5-3{
+    width: 100%;
+    height:600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.body5-3-contr{
+    width: 90%;
+    height: 80%;
+    display: flex;
+}
+.body5-3-part1{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.body5-3-part2{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.body5-3-part2-content1{
+    width: 100%;
+    height: 22%;
+    border-bottom: 1px solid rgb(69, 69, 69);
+    display: flex;
+    justify-content: space-between;
+}
+.body5-3-part2-content2{
+    width: 100%;
+    height: 22%;
+    border-bottom: 1px solid rgb(69, 69, 69);
+    display: flex;
+    justify-content: space-between;
+}
+.body5-3-part2-content3{
+    width: 100%;
+    height: 22%;
+    border-bottom: 1px solid rgb(69, 69, 69);
+    display: flex;
+    justify-content: space-between;
+}
+.body5-3-part2-content4{
+    width: 100%;
+    height: 22%;
+    display: flex;
+    justify-content: space-between;
+}
+.body5-3-part2-content-logo{
+    width: 8%;
+    height: 100%;
+}
+.body5-3-part2-content-text{
+    width: 88%;
+    height: 100%;
+}
+.main-body6-4{
+    background-color:white;
+    width: 100%;
+    height:600px;
+    display: flex;
+}
+.body6-4-part1{
+width: 55%;
+height: 100%;
+}
+.body6-4-part2{
+width:45%;
+height: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.main-body7{
+    background-color:white;
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.body7-part1{
+    width: 45%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.body7-part1-text{
+    width: 75%;
+    height: 55%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.body7-part2{
+    width: 55%;
+    height: 100%;
+    background-image: url(https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/poweredge-16g-postannounce-banner-module-desktop-1288x785.png?fmt=jpg&wid=1288&hei=785);
+    background-size: 870px 500px;
+}
+.main-body8{
+    background-color:white;
+    width: 100%;
+    height: 475px;
+    display: flex;
+}
+.body8-part1{
+    width: 55%;
+    height: 100%;
+}
+.body8-part2{
+    width: 45%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-body-gap1{
+    width: 100%;
+    height: 275px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main-body-gap2{
+    width: 100%;
+    height: 235px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.gap-link{
+    width: 365px;
+    height: 50px;
+    display: flex;
+    
+}
+.gap-link-part1{
+    width: 50%;
+    height: 100%;
+    border-right: 1px solid rgb(69, 69, 69);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.gap-link-part2{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main-body9-5{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.body9-5-part1{
+    width: 45%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.body9-5-part2{
+    width: 55%;
+    height: 100%;
+}
+.main-body10-6{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.body10-6-part1{
+    width: 55%;
+    height: 100%;
+}
+.body10-6-part2{
+    width: 45%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-body11-7{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.body11-7-part1{
+    width: 45%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.body11-7-part1-text{
+    width: 75%;
+    height: 55%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.body11-7-part2{
+    width: 55%;
+    height: 100%;
+}
+.main-body12{
+    width: 100%;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.body12-part1{
+    width: 45%;
+    height: 90%;
+    border-right: 1px solid rgb(69, 69, 69);
+}
+.body12-part1-text{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.body12-part1-img{
+    width: 100%;
+    height: 50%;
+    background-image: url(https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/2-ups/festive-cons-dell-inspiron-5620t-uhp-2401-04-in-homepage-2up-module-800x400-v11.png?fmt=pjpg&pscan=auto&scl=1&wid=800&hei=400&qlt=100,0&resMode=sharp2&size=800,400&op_usm=1.75,0.3,2,0);
+    background-size: 700px 300px;
+    
+}
+.body12-part2{
+    width: 45%;
+    height: 90%;
+}
+.body12-part2-text{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.body12-part2-img{
+    width: 100%;
+    height: 50%;
+    background-image: url(https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/2-ups/eofy-sb-dell-vostro-5620nt-uhp-2401-05-in-homepage-2up-module-800x400.png?fmt=pjpg&pscan=auto&scl=1&wid=800&hei=400&qlt=100,0&resMode=sharp2&size=800,400&op_usm=1.75,0.3,2,0);
+    background-size: 700px 300px;
+}
+.main-body13{
+    width: 100%;
+    height: 835px;
+    display: flex;
+    justify-content: center;
+}
+.body13-content{
+    width: 88%;
+    height: 100%;
+}
+.body13-content-text{
+    width: 100%;
+    height: 10%;
+}
+.body13-main-content{
+    width: 100%;
+    height: 80%;
+    display: flex;
+}
+.contents-body13-part1{
+    width: 50%;
+    height: 100%;
+}
+.part1-part1{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.part1-part1-card{
+    width: 97%;
+    height: 94%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.part1-part2{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.part1-part2-card{
+    width: 97%;
+    height: 94%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contents-body13-part2{
+    width: 50%;
+    height: 100%;
+}
+.part2-part1{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.part2-part1-card{
+    width: 97%;
+    height: 94%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.part2-part2{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.part2-part2-card{
+    width: 97%;
+    height: 94%;
+    background-color:white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    width: 90%;
+    height: 80%;
+    background-color: brow;
+}
+.card-header{
+    width: 100%;
+    height: 25%;
+    border-bottom: 1px solid rgb(69, 69, 69);
+}
+.card-content{
+    width: 100%;
+    height: 65%;
+    display: flex;
+    margin-top: 10px;
+}
+.card-img{
+    width: 40%;
+    height: 100%;
+}
+.card-text{
+    width: 60%;
+    height: 100%;
+}
+
+
+/* main body  */
+
+/* footer  */
+.contr-footer{
+    width: 100%;
+    height:835px;
+    background-color: rgb(231, 229, 229);;
+}
+.footer-header{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+.header-content{
+    width: 23%;
+    height: 70%;
+    margin-top: 40px;
+}
+.header-content-flex{
+    width: 100%;
+    height: 100%;
+  
+    display: flex;
+}
+.lang-img-footer{
+    width: 30px;
+    height: 100%;
+   
+}
+.lang-bar-footer{
+    width: 70px;
+    height: 100%;
+    text-align: center;
+  
+}
+.text-footer{
+    margin-top: 10px;
+    font-family: Roboto,Arial,Helvetica,sans-serif
+}
+.header-content-lang{
+    width: 100%;
+    height: 25%;
+  
+}
+.header-content-map{
+    width: 100%;
+    height: 50%;
+   
+}
+ul{
+    list-style-type:none;
+}
+li{
+    font-size: 20px;
+    line-height: 20px;
+    font-family: roboto,Arial,Helvetica,sans-serif;
+    margin-left: -40px;
+}
+.footer-main{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+}
+.main-content{
+    width: 23%;
+    height: 85%;
+}
+.footer-copyright{
+    width: 100%;
+    height: 133px;
+    
+}
+.copy-part1{
+    width: 96%;
+    height: 50%;
+    display: flex;
+    padding-left: 60px;
+}
+.part1-content1{
+    width: 10%;
+    height: 100%;
+}
+.part1-content2{
+    width: 10%;
+    height: 100%;
+}
+.copy-part2{
+    width: 96%;
+    height: 50%;
+    display: flex;
+    padding-left: 60px;
+}
+.part2-content1{
+    width: 16%;
+    height: 60%;
+    
+}
+.part2-content2{
+    width: 12%;
+    height: 60%;
+   
+}
+.part2-content3{
+    width: 13%;
+    height: 60%;
+    
+}
+.part2-content4{
+    width: 15%;
+    height: 60%;
+   
+}
+/* footer  */
